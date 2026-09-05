@@ -11,6 +11,6 @@ and only when — a user chooses **Check for Updates** (dock page footer, tray m
 and Quietwire never downloads or runs an installer itself; it only reports whether a
 newer version exists and links the release download page.
 
-Version history: [CHANGELOG.md](CHANGELOG.md)
+Downloads: [Releases](https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/latest) � Version history: [CHANGELOG.md](CHANGELOG.md)
 
 Contact: hello@acasintelligence.com · Copyright 2026 ACAS Tools.

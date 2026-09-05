@@ -5,5 +5,5 @@
   "minimumSupportedVersion": "0.2.0",
   "releaseNotes": "Quietwire 0.8.0 adds a trash (deleted files kept 30 days, restorable from the page) and hardens the dock page: cross-site request protection, a per-session token on the local page and setup wizard, and a symlink guard. Shared folders with subfolders from 0.7.",
   "releaseNotesUrl": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/blob/main/CHANGELOG.md",
-  "downloadPageUrl": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire/releases/latest"
+  "downloadPageUrl": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/latest"
 }
