@@ -1,5 +1,8 @@
 # Quietwire changelog
 
+## 0.9.1-beta.1
+- **Apply to all docks** in the access panel copies this dock's lists to every other dock.
+
 ## 0.9.0-beta.1
 - **Access lists** per dock: read / change / delete-and-administer, by login, `tag:x`, or `node:x`. Set in the wizard or from the page footer (**access**). Empty = everyone on your network.
 - Page footer shows your own identity; rename/access controls appear only for callers with delete rights.
