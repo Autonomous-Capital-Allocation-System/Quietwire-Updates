@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "product": "Quietwire",
+  "latestVersion": "0.4.0-beta.1",
+  "minimumSupportedVersion": "0.2.0",
+  "releaseNotes": "Quietwire 0.4.0 adds a manual Check for Updates control, a version footer, and recovers automatically when a dock's Tailscale identity is revoked. It builds on 0.3's dock-to-dock send, dock discovery, and tailnet HTTPS.",
+  "releaseNotesUrl": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/blob/main/CHANGELOG.md",
+  "downloadPageUrl": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire/releases/latest"
+}
