@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "product": "Quietwire",
-  "latestVersion": "0.8.1-beta.1",
+  "latestVersion": "0.9.0-beta.1",
   "minimumSupportedVersion": "0.2.0",
-  "releaseNotes": "Quietwire 0.8.1: two further hardening fixes from the security review \u2014 a Host-header allowlist that defeats DNS-rebinding attacks on the dock page, and sanitized desktop-notification text. Includes 0.8's trash and page hardening.",
+  "releaseNotes": "Quietwire 0.9.0 adds per-dock access lists: decide who may see, who may change files, and who may delete or administer each dock \u2014 by Tailscale login, tag, or dock name. Empty lists keep the previous everyone-on-the-network behaviour. Includes 0.8's trash and hardening.",
   "releaseNotesUrl": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/blob/main/CHANGELOG.md",
   "downloadPageUrl": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/latest"
 }
