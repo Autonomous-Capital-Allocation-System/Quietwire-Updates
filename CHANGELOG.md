@@ -1,5 +1,8 @@
 # Quietwire changelog
 
+## 0.8.1-beta.1
+- Security: Host-header allowlist on every listener (DNS-rebinding defense); desktop-notification text is sanitized before display.
+
 ## 0.8.0-beta.1
 - **Trash**: deleting a file or folder (from the page, or via sync from another dock) moves it to a trash kept for 30 days. Restore from the page; empty trash to purge.
 - **Security**: cross-site request protection on every dock page; the local page and setup wizard are protected by a per-session token so other users or processes on the same machine cannot reach them; paths that cross a symlink are refused.
