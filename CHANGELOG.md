@@ -1,5 +1,11 @@
 # Quietwire changelog
 
+## 0.6.0-beta.1
+- **Shared folder mode** (on by default): every dock's folder converges to the
+  same contents. Newest copy wins; deletes propagate; offline docks catch up.
+- **Check for Updates** in the tray menu (Windows, macOS); `--check-update` on Linux.
+- Dashboard: "shared folder" status line; per-file send hidden in shared mode.
+
 ## 0.5.1-beta.1
 - **Local dock page**: the tray's Open Dock Page now opens a loopback address that
   works on the dock machine itself, even without the Tailscale client — files,

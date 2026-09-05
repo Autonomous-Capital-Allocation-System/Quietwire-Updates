@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "product": "Quietwire",
-  "latestVersion": "0.5.1-beta.1",
+  "latestVersion": "0.6.0-beta.1",
   "minimumSupportedVersion": "0.2.0",
-  "releaseNotes": "Quietwire 0.5.1: the dock machine can now open its own dock page from the tray (works even on servers without the Tailscale client) \u2014 see files, other docks, check for updates and rename locally. Includes 0.5's rename-in-place.",
+  "releaseNotes": "Quietwire 0.6.0 adds Shared Folder mode: every dock's folder stays identical \u2014 drop a file on any machine and it appears on all of them; deletes sync too. Also: Check for Updates in the tray menu (Windows/Mac) and --check-update on Linux.",
   "releaseNotesUrl": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/blob/main/CHANGELOG.md",
   "downloadPageUrl": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire/releases/latest"
 }
