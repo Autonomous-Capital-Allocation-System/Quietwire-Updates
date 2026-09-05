@@ -1,5 +1,10 @@
 # Quietwire changelog
 
+## 0.5.0-beta.1
+- **Rename a dock in place** from the footer (and a `--rename` flag). Reuses the
+  dock's Tailscale identity, so the device is renamed rather than recreated — no
+  stale entries to clean up.
+
 ## 0.4.0-beta.1
 - **Check for updates** in the dock footer, plus a visible version number.
 - **Automatic recovery** when a dock's Tailscale identity is revoked (deleted

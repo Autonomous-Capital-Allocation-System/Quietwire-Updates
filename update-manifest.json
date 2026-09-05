@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "product": "Quietwire",
-  "latestVersion": "0.4.0-beta.1",
+  "latestVersion": "0.5.0-beta.1",
   "minimumSupportedVersion": "0.2.0",
-  "releaseNotes": "Quietwire 0.4.0 adds a manual Check for Updates control, a version footer, and recovers automatically when a dock's Tailscale identity is revoked. It builds on 0.3's dock-to-dock send, dock discovery, and tailnet HTTPS.",
+  "releaseNotes": "Quietwire 0.5.0 lets you rename a dock in place from the footer \u2014 it reuses the dock's Tailscale identity, so the device is renamed rather than recreated (no stale entries). Includes 0.4's update check and self-recovery, 0.3's dock-to-dock and tailnet HTTPS.",
   "releaseNotesUrl": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/blob/main/CHANGELOG.md",
   "downloadPageUrl": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire/releases/latest"
 }
