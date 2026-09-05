@@ -1,5 +1,10 @@
 # Quietwire changelog
 
+## 0.5.1-beta.1
+- **Local dock page**: the tray's Open Dock Page now opens a loopback address that
+  works on the dock machine itself, even without the Tailscale client — files,
+  other docks, check for updates and rename all available locally.
+
 ## 0.5.0-beta.1
 - **Rename a dock in place** from the footer (and a `--rename` flag). Reuses the
   dock's Tailscale identity, so the device is renamed rather than recreated — no
