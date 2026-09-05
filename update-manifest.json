@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "product": "Quietwire",
-  "latestVersion": "0.6.2-beta.1",
+  "latestVersion": "0.7.0-beta.1",
   "minimumSupportedVersion": "0.2.0",
-  "releaseNotes": "Quietwire 0.6.2 fixes shared-folder renames and quick deletes leaving an extra stale copy on other docks. Shared Folder mode and tray Check for Updates from 0.6.0.",
+  "releaseNotes": "Quietwire 0.7.0: folders now sync \u2014 subfolders at any depth, empty folders, folder renames and deletes, and you can drag a whole folder onto the dock page. Shared Folder mode from 0.6.",
   "releaseNotesUrl": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/blob/main/CHANGELOG.md",
   "downloadPageUrl": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire/releases/latest"
 }

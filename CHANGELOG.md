@@ -1,5 +1,10 @@
 # Quietwire changelog
 
+## 0.7.0-beta.1
+- **Folders sync**: subfolders at any depth, empty folders, folder renames and deletes.
+- Drag a whole folder onto the dock page to upload it with its structure.
+- Hidden files, Thumbs.db/desktop.ini, Office lock files and symlinks are skipped on purpose.
+
 ## 0.6.2-beta.1
 - Fix: renaming or quickly deleting a file in a shared folder could leave a stale copy on other docks (and get pushed back). Deletes now cover unsettled files, peers pull only settled files, and delete records are exchanged so everything converges.
 
