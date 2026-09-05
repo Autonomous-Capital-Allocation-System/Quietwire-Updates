@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "product": "Quietwire",
-  "latestVersion": "0.6.1-beta.1",
+  "latestVersion": "0.6.2-beta.1",
   "minimumSupportedVersion": "0.2.0",
-  "releaseNotes": "Quietwire 0.6.1 fixes Open Drop Folder opening the wrong folder on Windows when the path used forward slashes. Shared Folder mode and tray Check for Updates from 0.6.0.",
+  "releaseNotes": "Quietwire 0.6.2 fixes shared-folder renames and quick deletes leaving an extra stale copy on other docks. Shared Folder mode and tray Check for Updates from 0.6.0.",
   "releaseNotesUrl": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/blob/main/CHANGELOG.md",
   "downloadPageUrl": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire/releases/latest"
 }
