@@ -1,5 +1,8 @@
 # Quietwire changelog
 
+## 0.6.1-beta.1
+- Fix: Open Drop Folder on Windows opened Documents when the folder path used forward slashes.
+
 ## 0.6.0-beta.1
 - **Shared folder mode** (on by default): every dock's folder converges to the
   same contents. Newest copy wins; deletes propagate; offline docks catch up.
