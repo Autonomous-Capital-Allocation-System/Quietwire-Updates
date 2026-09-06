@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
   "product": "Quietwire",
-  "latestVersion": "0.10.1-beta.1",
+  "latestVersion": "0.10.2-beta.1",
   "minimumSupportedVersion": "0.2.0",
   "releaseNotes": "Quietwire 0.9.1 adds 'Apply to all docks' in the access panel, so one dock's access lists can be copied to every other dock in one click. Access lists from 0.9.0; trash and hardening from 0.8.",
   "releaseNotesUrl": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/blob/main/CHANGELOG.md",
   "downloadPageUrl": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/latest",
   "downloads": {
     "windows": {
-      "url": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/download/v0.10.1-beta.1/Quietwire-Setup-0.10.1-beta.1.exe",
-      "sha256": "c29820eebe8bef042bb3c06650a4bb076879329bca1326daa05065c003cf5868"
+      "url": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/download/v0.10.2-beta.1/Quietwire-Setup-0.10.2-beta.1.exe",
+      "sha256": "cab15589de83eace2e77bd5aaa170e828b04a2c6bf43cd69bb0255cbeadf1ce0"
     },
     "macos": {
-      "url": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/download/v0.10.1-beta.1/Quietwire-0.10.1-beta.1.dmg",
-      "sha256": "e3ce9bd731b8ced36471e0cdd4ac7721907cc0473c4af03838c52cdf0727ac04"
+      "url": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/download/v0.10.2-beta.1/Quietwire-0.10.2-beta.1.dmg",
+      "sha256": "c61aca78bd2cb816eb4c5ace667ed109455814a15c96e6a8f463fa648d492214"
     },
     "linux": {
-      "url": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/download/v0.10.1-beta.1/quietwire-linux-amd64",
-      "sha256": "4a69922cc8f600f0bc0ae038a2b6463ade9c117ef10d4e78ba43cbcb27ad2431"
+      "url": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/download/v0.10.2-beta.1/quietwire-linux-amd64",
+      "sha256": "3bf5878f08fcff3baf0c7078a3d34dbb4e6e2cc85495402e48f655948a3e4019"
     }
   }
 }
