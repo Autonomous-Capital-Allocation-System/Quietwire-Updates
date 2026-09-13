@@ -1,5 +1,16 @@
 # Quietwire changelog
 
+## 0.11.0-beta.2
+- **Reboot resilience**: an installed dock keeps its identity and dock name across reboots and restarts. It waits for your network to come up instead of timing out, and only asks you to re-authenticate if the node key was actually revoked or expired - and even then it keeps your existing dock name. No more re-entering an auth key or re-naming after a routine reboot.
+- **Fix**: desktop notifications for new files now show **Quietwire** as the sender instead of "DefaultAppName".
+
+## 0.11.0-beta.1
+- **Suspend / Resume**: the owner can pause a dock in place (nothing moves in or out) and resume it later, without uninstalling. Survives reboots.
+
+## 0.10.0-beta.1
+- **In-app updates**: Check for updates, then update in place.
+- **Move detection**, a **per-dock storage limit**, **Apply access to all docks**, and a published disclosure/reporting policy.
+
 ## 0.9.1-beta.1
 - **Apply to all docks** in the access panel copies this dock's lists to every other dock.
 

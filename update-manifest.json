@@ -3,7 +3,7 @@
   "product": "Quietwire",
   "latestVersion": "0.11.0-beta.2",
   "minimumSupportedVersion": "0.2.0",
-  "releaseNotes": "Quietwire 0.9.1 adds 'Apply to all docks' in the access panel, so one dock's access lists can be copied to every other dock in one click. Access lists from 0.9.0; trash and hardening from 0.8.",
+  "releaseNotes": "Quietwire 0.11.0-beta.2: installed docks now keep their identity and dock name across reboots and restarts - no more re-entering a Tailscale auth key or re-naming the dock after a routine reboot. Desktop notifications for new files now show 'Quietwire' as the sender instead of 'DefaultAppName'.",
   "releaseNotesUrl": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/blob/main/CHANGELOG.md",
   "downloadPageUrl": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/latest",
   "downloads": {
