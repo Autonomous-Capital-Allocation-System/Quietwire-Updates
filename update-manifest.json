@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
   "product": "Quietwire",
-  "latestVersion": "0.11.0-beta.2",
+  "latestVersion": "0.12.0",
   "minimumSupportedVersion": "0.2.0",
   "releaseNotes": "Quietwire 0.11.0-beta.2: installed docks now keep their identity and dock name across reboots and restarts - no more re-entering a Tailscale auth key or re-naming the dock after a routine reboot. Desktop notifications for new files now show 'Quietwire' as the sender instead of 'DefaultAppName'.",
   "releaseNotesUrl": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/blob/main/CHANGELOG.md",
   "downloadPageUrl": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/latest",
   "downloads": {
     "windows": {
-      "url": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/download/v0.11.0-beta.2/Quietwire-Setup-0.11.0-beta.2.exe",
-      "sha256": "5dd58ec32b0a477a50db4db028eaeb632aed7049cefce6ba03553b4dd7d6e846"
+      "url": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/download/v0.12.0/Quietwire-Setup-0.12.0.exe",
+      "sha256": "70d8214b2a2a9ab3e1b207dd4c4ec1f13331627be00dc670e6d7fcc47751e70a"
     },
     "macos": {
-      "url": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/download/v0.11.0-beta.2/Quietwire-0.11.0-beta.2.dmg",
-      "sha256": "d24fe27cf1201c57fe7a40f546f5118be2a8b933fa416e093d84ae56b5aef074"
+      "url": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/download/v0.12.0/Quietwire-0.12.0.dmg",
+      "sha256": "cd64b264fbb2b6029cdfac37e425fdacf98847d5a1cf55572ebb2913a0f42abd"
     },
     "linux": {
-      "url": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/download/v0.11.0-beta.2/quietwire-linux-amd64",
-      "sha256": "64e0c08b7de7b9beb2d52647d3cedfbd21cc9bc85db2bf3441e264129b80e35d"
+      "url": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/download/v0.12.0/quietwire-linux-amd64",
+      "sha256": "133ea95d1cb70ac2e87ff1b678928ee4a044e4d2429b23e549918d39c94626e1"
     }
   }
 }
