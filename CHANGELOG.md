@@ -1,5 +1,11 @@
 # Quietwire changelog
 
+## 0.12.0
+- **Quieter by default**: desktop notifications for incoming files are now off by default, on new installs and upgrades alike. Turn them back on any time from the tray.
+- **Tray: Suppress notifications**: a checkbox in the tray menu controls the popups. Checked = silent.
+- **Tray: Notification history**: opens an in-app page listing everything that moved through the dock - added, synced, downloaded, deleted, moved, suspended, resumed, updates and access changes - newest first.
+- Update-check notifications are unchanged.
+
 ## 0.11.0-beta.2
 - **Reboot resilience**: an installed dock keeps its identity and dock name across reboots and restarts. It waits for your network to come up instead of timing out, and only asks you to re-authenticate if the node key was actually revoked or expired - and even then it keeps your existing dock name. No more re-entering an auth key or re-naming after a routine reboot.
 - **Fix**: desktop notifications for new files now show **Quietwire** as the sender instead of "DefaultAppName".
