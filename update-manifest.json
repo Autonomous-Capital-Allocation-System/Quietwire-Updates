@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
   "product": "Quietwire",
-  "latestVersion": "0.12.0",
+  "latestVersion": "0.12.1",
   "minimumSupportedVersion": "0.2.0",
   "releaseNotes": "Quietwire 0.12.0: incoming-file notifications are now off by default, with a new tray checkbox to control them and a Notification history page showing everything that moved through your dock.",
   "releaseNotesUrl": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/blob/main/CHANGELOG.md",
   "downloadPageUrl": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/latest",
   "downloads": {
     "windows": {
-      "url": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/download/v0.12.0/Quietwire-Setup-0.12.0.exe",
-      "sha256": "70d8214b2a2a9ab3e1b207dd4c4ec1f13331627be00dc670e6d7fcc47751e70a"
+      "url": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/download/v0.12.1/Quietwire-Setup-0.12.1.exe",
+      "sha256": "a04fde640c6320bf7e943595a520e54d13b337665333fd8cd2b84e97d026b8b1"
     },
     "macos": {
-      "url": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/download/v0.12.0/Quietwire-0.12.0.dmg",
-      "sha256": "cd64b264fbb2b6029cdfac37e425fdacf98847d5a1cf55572ebb2913a0f42abd"
+      "url": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/download/v0.12.1/Quietwire-0.12.1.dmg",
+      "sha256": "b0fe2baebc8abcb7413174ed5f2213a90eaf39154f34f372a194b91ed5029833"
     },
     "linux": {
-      "url": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/download/v0.12.0/quietwire-linux-amd64",
-      "sha256": "133ea95d1cb70ac2e87ff1b678928ee4a044e4d2429b23e549918d39c94626e1"
+      "url": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/download/v0.12.1/quietwire-linux-amd64",
+      "sha256": "7b2088aadf5ec2654eb6ee1e00b075e2c903b0aa1d5c86092cdb731cc92b5fe6"
     }
   }
 }
