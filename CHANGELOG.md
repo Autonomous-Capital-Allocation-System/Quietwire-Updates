@@ -1,5 +1,9 @@
 # Quietwire changelog
 
+## 0.12.1
+- **Fix: sync loop / notification storm**: a file received from another dock could be mistaken for a new local change and bounced between docks indefinitely (caused by filesystem timestamp rounding), firing a notification on every hop for hours. Quietwire now tracks the exact on-disk time and the peer's time separately, so a synced file is recognised and never re-sent, re-fetched or re-announced.
+- A given version of a file is now announced at most once.
+
 ## 0.12.0
 - **Quieter by default**: desktop notifications for incoming files are now off by default, on new installs and upgrades alike. Turn them back on any time from the tray.
 - **Tray: Suppress notifications**: a checkbox in the tray menu controls the popups. Checked = silent.
