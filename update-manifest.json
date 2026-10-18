@@ -1,23 +1,19 @@
 {
   "schemaVersion": 1,
   "product": "Quietwire",
-  "latestVersion": "0.12.1",
+  "latestVersion": "1.0.0",
   "minimumSupportedVersion": "0.2.0",
-  "releaseNotes": "Quietwire 0.12.1: fixes a sync loop where a file received from another dock could bounce between docks for hours (filesystem timestamp rounding), firing a notification on every hop. Includes v0.12.0: arrival notifications off by default + tray Suppress checkbox + Notification history page.",
-  "releaseNotesUrl": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/blob/main/CHANGELOG.md",
-  "downloadPageUrl": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/latest",
+  "releaseNotes": "Quietwire 1.0.0: the first full release. Code-signed builds, signed in-app updates, sturdier sync, licensing with a 7-day trial. After this update Quietwire uses the new signed update feed.",
+  "releaseNotesUrl": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/tag/v1.0.0",
+  "downloadPageUrl": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/tag/v1.0.0",
   "downloads": {
     "windows": {
-      "url": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/download/v0.12.1/Quietwire-Setup-0.12.1.exe",
-      "sha256": "a04fde640c6320bf7e943595a520e54d13b337665333fd8cd2b84e97d026b8b1"
+      "url": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/download/v1.0.0/Quietwire-Setup-1.0.0.exe",
+      "sha256": "758d55a4557adaba5fc728466994b9f7f944185e1e6bda0653b8d7ca8c4e9d52"
     },
     "macos": {
-      "url": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/download/v0.12.1/Quietwire-0.12.1.dmg",
-      "sha256": "b0fe2baebc8abcb7413174ed5f2213a90eaf39154f34f372a194b91ed5029833"
-    },
-    "linux": {
-      "url": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/download/v0.12.1/quietwire-linux-amd64",
-      "sha256": "7b2088aadf5ec2654eb6ee1e00b075e2c903b0aa1d5c86092cdb731cc92b5fe6"
+      "url": "https://github.com/Autonomous-Capital-Allocation-System/Quietwire-Updates/releases/download/v1.0.0/Quietwire-1.0.0.dmg",
+      "sha256": "9dbe4c6fb4a65b2c3988718518e173cf8a5955eaddf6b58d725e6aeeb59d5731"
     }
   }
 }

@@ -1,5 +1,8 @@
 # Quietwire changelog
 
+## 1.0.0
+- First full release: code-signed Windows and macOS builds, signed in-app updates (new feed v1/latest.json), licensing with a 7-day trial, sturdier sync (retries, stall watchdog, offline deletes, folder deletes), no log upload to Tailscale. Linux is not part of 1.0.0.
+
 ## 0.12.1
 - **Fix: sync loop / notification storm**: a file received from another dock could be mistaken for a new local change and bounced between docks indefinitely (caused by filesystem timestamp rounding), firing a notification on every hop for hours. Quietwire now tracks the exact on-disk time and the peer's time separately, so a synced file is recognised and never re-sent, re-fetched or re-announced.
 - A given version of a file is now announced at most once.
